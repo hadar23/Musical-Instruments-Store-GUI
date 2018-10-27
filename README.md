@@ -10,4 +10,4 @@ How to use (Eclipse):
 
 You will see all the information in a pop-up window, and you will be able to manage the store
 
-(Third java project, semester 2, software engineering bachelor degree)
+(Third Java project, semester 2, software engineering bachelor degree)
